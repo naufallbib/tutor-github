@@ -1,1 +1,1 @@
-SAYA AKAN LAWAN
+sedang belajar, jangan ganggu.
