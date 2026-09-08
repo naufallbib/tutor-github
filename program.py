@@ -1,8 +1,8 @@
 print ("KALKULATOR SEDERHANA")
 
 angka1 = float(input('Masukkan angka pertama = '))
-angka2 = float(input('Masukkan angka kedua = '))
 operasi = input('Masukkan operasi (+, -, x, /)= ')
+angka2 = float(input('Masukkan angka kedua = '))
 if operasi == '+':
     hasil = angka1 + angka2
     print(f'Hasilnya adalah {hasil}')
