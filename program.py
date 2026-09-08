@@ -16,4 +16,4 @@ elif operasi == '/':
     hasil = angka1 / angka2
     print(f'Hasilnya adalah {hasil}')
 else:
-    print('Masukkan operasi yang benar')
+    print('ERROR: Operasi yang anda masukkan salah')
