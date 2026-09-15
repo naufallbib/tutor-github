@@ -17,4 +17,4 @@ elif operasi == '/':
     hasil = angka1 / angka2
     print(f'Hasilnya adalah {hasil}')
 else:
-    print('yang bener kontol')
+    print('yang bener mas')
